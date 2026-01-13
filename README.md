@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá me chamo Cawan,sou estudante de Engenharia de Computação, com experiência em trabalho em equipe e boa comunicação interpessoal. Tenho facilidade para colaborar em projetos, buscar soluções em conjunto e me adaptar a novos desafios. Estou em constante desenvolvimento técnico e pessoal, sempre focado em aplicar meus conhecimentos de forma prática e contribuir com resultados positivos!!
 
 <!--
 **/Soarescawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
