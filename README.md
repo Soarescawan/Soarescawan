@@ -1,4 +1,56 @@
-## Olá me chamo Cawan,sou estudante de Engenharia de Computação, com experiência em trabalho em equipe e boa comunicação interpessoal. Tenho facilidade para colaborar em projetos, buscar soluções em conjunto e me adaptar a novos desafios. Estou em constante desenvolvimento técnico e pessoal, sempre focado em aplicar meus conhecimentos de forma prática e contribuir com resultados positivos!!
+# 👋 Olá, eu sou o Cawan Soares!
+
+🎓 Estudante de Engenharia de Computação – 3º semestre  
+💻 Focado em Sistemas Digitais, Hardware e Desenvolvimento  
+🚀 Em evolução constante
+
+---
+
+## 🧠 Tecnologias
+
+### 💻 Linguagens
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-FF6600?style=for-the-badge&logo=v&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+---
+
+## 🏥 Experiência
+
+👨‍💻 Monitor no projeto **PET-Saúde Digital (SUS)**  
+Atuação em tecnologia aplicada à saúde pública e inovação digital.
+
+---
+
+## 📂 Projeto em Destaque
+
+🔹 **ULA de 6 bits em VHDL**
+- Soma e Subtração  
+- Operações Lógicas  
+- Shift Left / Right  
+- Comparador  
+- Flags (Zero, Overflow)
+
+---
+
+## 📚 Atualmente estudando
+
+- Estruturas de Dados  
+- Programação Orientada a Objetos  
+- Arquitetura de Computadores  
+
+---
+
+## 🎯 Objetivo
+
+Me tornar um engenheiro capaz de integrar **hardware e software**, desenvolvendo soluções completas e eficientes.
+
+---
+
+ Sempre buscando aprender algo novo!
 
 <!--
 **/Soarescawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
