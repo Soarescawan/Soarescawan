@@ -23,8 +23,8 @@
 👨‍💻 Monitor no projeto **PET-Saúde Digital (SUS)**  
 Atuação em tecnologia aplicada à saúde pública e inovação digital.  
 👨‍💻 Pesquisador no **Projeto - Pinguimbots no Desenvolvimento de Drones**  
+**Back-End Em Java** Em constante aprendizado.  
 
-**Back-End Em Java** Em constante aprendizado.
 ---
 
 ## 📂 Projeto em Destaque
