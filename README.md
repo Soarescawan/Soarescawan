@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Cawan Soares!
+# Olá, Me chamo Cawan Soares!
 
 🎓 Estudante de Engenharia de Computação – 3º semestre  
 💻 Focado em Sistemas Digitais, Hardware e Desenvolvimento  
@@ -22,7 +22,9 @@
 
 👨‍💻 Monitor no projeto **PET-Saúde Digital (SUS)**  
 Atuação em tecnologia aplicada à saúde pública e inovação digital.
+👨‍💻 Pesquisador no **Projeto - Pinguimbots no Desenvolvimento de Drones**
 
+**Back-End Em Java** Em constante aprendizado.
 ---
 
 ## 📂 Projeto em Destaque
@@ -40,13 +42,13 @@ Atuação em tecnologia aplicada à saúde pública e inovação digital.
 
 - Estruturas de Dados  
 - Programação Orientada a Objetos  
-- Arquitetura de Computadores  
-
+- Algoritmos e Estrutura de dados  
+- Bootcamp Back-End em java
 ---
 
 ## 🎯 Objetivo
 
-Me tornar um engenheiro capaz de integrar **hardware e software**, desenvolvendo soluções completas e eficientes.
+Me tornar um engenheiro capaz de integrar **hardware e software**, desenvolvendo Soluções completas e eficientes.
 
 ---
 
